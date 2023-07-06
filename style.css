@@ -3,6 +3,10 @@
 /*HEADER*/
 body {
   background-color: #FB8E26;
+  font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 19px;
 }
 
 .container {
