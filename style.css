@@ -1,0 +1,58 @@
+
+
+/*HEADER*/
+body {
+  background-color: #FB8E26;
+}
+
+.container {
+  width: 1440px;
+  height: 100px;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  top: 50%;
+  left: 20px; /* Предполагаемая позиция логотипа */
+  transform: translateY(-50%);
+  /* Добавьте ваш логотип здесь */
+}
+
+.menu {
+  position: absolute;
+  top: 50%;
+  left: 300px; /* Предполагаемая позиция меню */
+  transform: translateY(-50%);
+  font-size: 20px;
+}
+
+.menu-item {
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.phone {
+  position: absolute;
+  top: 50%;
+  right: 20px; /* Предполагаемая позиция номера телефона */
+  transform: translateY(-50%);
+  color: white;
+}
+
+.register-button {
+  position: absolute;
+  width: 247.3751220703125px;
+  height: 67px;
+  top: 16px;
+  left: 1080.625px;
+  border-radius: 100px;
+  background-color: white;
+  color: #FB8E26;
+  font-size: 16px;
+  text-align: center;
+  line-height: 67px;
+  cursor: pointer;
+}
+/*HEADER*/
