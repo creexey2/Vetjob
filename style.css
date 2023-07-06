@@ -42,7 +42,9 @@ body {
 }
 
 .menu-items{
-  left: 40px;
+  color: white;
+  text-decoration: none;
+  margin-left: 50px;
 }
 
 .register-button {
