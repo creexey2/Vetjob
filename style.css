@@ -42,11 +42,7 @@ body {
 }
 
 .phone {
-  position: absolute;
-  top: 50%;
-  right: 50px;
-  transform: translateY(-50%);
-  color: white;
+  left: 40px;
 }
 
 .register-button {
