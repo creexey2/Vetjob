@@ -14,15 +14,18 @@ body {
 .logo {
   position: absolute;
   top: 50%;
-  left: 20px; /* Предполагаемая позиция логотипа */
+  left: 20px;
   transform: translateY(-50%);
-  /* Добавьте ваш логотип здесь */
+  background-image: url('URLлоготип.svg');
+  width: 70px;
+  height: 70px;
+  
 }
 
 .menu {
   position: absolute;
   top: 50%;
-  left: 300px; /* Предполагаемая позиция меню */
+  left: 300px; 
   transform: translateY(-50%);
   font-size: 20px;
 }
@@ -36,7 +39,7 @@ body {
 .phone {
   position: absolute;
   top: 50%;
-  right: 20px; /* Предполагаемая позиция номера телефона */
+  right: 20px;
   transform: translateY(-50%);
   color: white;
 }
