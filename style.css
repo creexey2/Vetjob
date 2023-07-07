@@ -1,18 +1,17 @@
 
 
 /*HEADER*/
-body {
-  background-color: #FB8E26;
-  font-family: Montserrat;
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 19px;
-}
+
 
 .header {
   width: 1440px;
   height: 100px;
   position: relative;
+  background-color: #FB8E26;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 19px;
 }
 
 .logo {
@@ -62,3 +61,53 @@ body {
   cursor: pointer;
 }
 /*HEADER*/
+
+/*FOOTER*/
+
+
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: #FB8E26;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+
+   background-color: #FB8E26;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 19px;
+}
+
+.logo {
+  /* Стили для логотипа */
+  width: 73.07260131835938px;
+  height: 70px;
+  background-image: url('URL_логотип.svg');
+  /* Дополнительные стили для логотипа */
+}
+
+.menu {
+  font-size: 20px;
+}
+
+.menu-item {
+  margin-right: 20px;
+  color: white;
+  text-decoration: none;
+}
+
+.register-button {
+  width: 247.3751220703125px;
+  height: 67px;
+  border-radius: 100px;
+  background-color: #37B449;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  line-height: 67px;
+  cursor: pointer;
+}
+
