@@ -111,3 +111,12 @@
   cursor: pointer;
 }
 
+/*rev*/
+   .text-block {
+        width: 860px;
+        height: 186px;
+        position: absolute;
+        top: 351px;
+        left: 406.130859375px;
+        border-radius: 15px;
+    }
