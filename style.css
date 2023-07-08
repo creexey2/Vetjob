@@ -98,6 +98,11 @@
   color: white;
   text-decoration: none;
 }
+.menu-items{
+  color: white;
+  text-decoration: none;
+  margin-left: 50px;
+}
 
 .register-button {
   width: 247.3751220703125px;
